@@ -5,7 +5,7 @@ clear
 GUI=$(zenity --list --checklist \
 	--height 400 \
 	--width 800 \
-	--title="elementary-script" \
+	--title="elementary OS postinstall script" \
 	--text "Pick one or multiple Actions to execute." \
 	--column=Picks \
 	--column=Actions \
