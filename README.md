@@ -3,7 +3,7 @@ elementary OS postinstall script
 
 A tiny script that helps you perform necessary tasks after you install elementary OS.
 
-![Screenshot](https://raw.githubusercontent.com/mbilobrk/elementary-script/master/Screenshot.png)
+![Screenshot](https://github.com/mbilobrk/eOS_postinstall_script/blob/master/Screenshot.png)
 
 ## elementary OS Version Compatibility
 
