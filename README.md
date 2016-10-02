@@ -7,7 +7,7 @@ A tiny script that helps you perform necessary tasks after you install elementar
 
 ## elementary OS Version Compatibility
 
-elementary OS script will always support the lastest stable version of elementary OS, which at the moment is **elementary OS 0.3 Freya & 0.4 Loki**.
+elementary OS script will always support the lastest stable version of elementary OS, which at the moment is **elementary OS 0.3 Freya**.
 
 ## Run
 
