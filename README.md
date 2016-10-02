@@ -1,4 +1,4 @@
-# eOS_postinstall_script
+# _elementary OS postinstall script_
 elementary OS postinstall script
 
 A tiny script that helps you perform necessary tasks after you install elementary OS.
